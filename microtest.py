@@ -1,3 +1,7 @@
 
+v = '1.2'
+print(f'imported {v}')
 
-print('v1.1')
+def run():
+  print(f'ran {v}'
+
