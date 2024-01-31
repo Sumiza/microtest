@@ -1,5 +1,5 @@
-#! 1.5
-#!! https://raw.githubusercontent.com/Sumiza/microtest/main/microtest.py
+# REV 1.5
+# URL https://raw.githubusercontent.com/Sumiza/microtest/main/microtest.py
 
 
 v = '1.5'
