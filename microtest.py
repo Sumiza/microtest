@@ -1,4 +1,4 @@
-# REV 1.5
+# VERSION 1.5
 # URL https://raw.githubusercontent.com/Sumiza/microtest/main/microtest.py
 
 
